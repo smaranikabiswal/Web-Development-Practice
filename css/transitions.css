@@ -1,0 +1,7 @@
+div{
+    background-color: rgb(23, 185, 185);
+    height: 250px;
+    width: 200px;
+    background-image:url(cat.jpg);
+    background-size: cover;
+}
