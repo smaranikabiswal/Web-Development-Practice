@@ -1,12 +1,11 @@
 import './App.css'
 import Counter from "./counter.jsx"
 import LikeButton from "./LikeButton.jsx"
+import CommentsForm from "./CommentsForm.jsx"
 function App() {
   return (
     <>
-    <h1>states in react</h1> 
-    {/* <Counter/>  */}
-    <LikeButton/>
+  <CommentsForm/>
     </>
   )
 }
